@@ -1,0 +1,152 @@
+SAE Causal Intervention Analysis Summary
+=======================================
+
+Source Layer: actor_mlp_1
+==================================================
+
+Target: actor_mlp_3
+--------------------------------------------------
+
+Top Features:
+  1. Feature 401 (importance: 2.0190)
+  2. Feature 325 (importance: 1.9021)
+  3. Feature 35 (importance: 1.3636)
+  4. Feature 17 (importance: 1.1122)
+  5. Feature 430 (importance: 0.7994)
+  6. Feature 348 (importance: 0.6170)
+  7. Feature 344 (importance: 0.5672)
+  8. Feature 467 (importance: 0.5058)
+  9. Feature 382 (importance: 0.4736)
+  10. Feature 508 (importance: 0.3576)
+
+Target: actor_mlp_5
+--------------------------------------------------
+
+Top Features:
+  1. Feature 401 (importance: 1.7332)
+  2. Feature 325 (importance: 1.2780)
+  3. Feature 430 (importance: 0.8920)
+  4. Feature 35 (importance: 0.8498)
+  5. Feature 348 (importance: 0.7438)
+  6. Feature 17 (importance: 0.6449)
+  7. Feature 344 (importance: 0.3651)
+  8. Feature 467 (importance: 0.3616)
+  9. Feature 154 (importance: 0.2729)
+  10. Feature 355 (importance: 0.2702)
+
+Target: mu
+--------------------------------------------------
+
+Top Features:
+  1. Feature 401 (importance: 0.3657)
+  2. Feature 325 (importance: 0.2463)
+  3. Feature 430 (importance: 0.1959)
+  4. Feature 35 (importance: 0.1721)
+  5. Feature 348 (importance: 0.1615)
+  6. Feature 344 (importance: 0.1458)
+  7. Feature 154 (importance: 0.1252)
+  8. Feature 108 (importance: 0.1029)
+  9. Feature 59 (importance: 0.1004)
+  10. Feature 355 (importance: 0.0764)
+
+Target: value
+--------------------------------------------------
+
+Top Features:
+  1. Feature 401 (importance: 0.2146)
+  2. Feature 430 (importance: 0.1638)
+  3. Feature 325 (importance: 0.1227)
+  4. Feature 348 (importance: 0.1139)
+  5. Feature 17 (importance: 0.0824)
+  6. Feature 35 (importance: 0.0613)
+  7. Feature 355 (importance: 0.0351)
+  8. Feature 154 (importance: 0.0246)
+  9. Feature 108 (importance: 0.0205)
+  10. Feature 16 (importance: 0.0160)
+
+
+Source Layer: actor_mlp_3
+==================================================
+
+Target: actor_mlp_5
+--------------------------------------------------
+
+Top Features:
+  1. Feature 158 (importance: 1.5291)
+  2. Feature 186 (importance: 0.9468)
+  3. Feature 110 (importance: 0.7595)
+  4. Feature 0 (importance: 0.5779)
+  5. Feature 94 (importance: 0.5102)
+  6. Feature 91 (importance: 0.4746)
+  7. Feature 182 (importance: 0.3505)
+  8. Feature 150 (importance: 0.3164)
+  9. Feature 66 (importance: 0.3111)
+  10. Feature 34 (importance: 0.3109)
+
+Target: mu
+--------------------------------------------------
+
+Top Features:
+  1. Feature 158 (importance: 0.4514)
+  2. Feature 186 (importance: 0.3345)
+  3. Feature 110 (importance: 0.2175)
+  4. Feature 94 (importance: 0.1493)
+  5. Feature 182 (importance: 0.1231)
+  6. Feature 150 (importance: 0.1217)
+  7. Feature 34 (importance: 0.1083)
+  8. Feature 0 (importance: 0.1008)
+  9. Feature 248 (importance: 0.0903)
+  10. Feature 91 (importance: 0.0873)
+
+Target: value
+--------------------------------------------------
+
+Top Features:
+  1. Feature 158 (importance: 0.2078)
+  2. Feature 0 (importance: 0.1301)
+  3. Feature 94 (importance: 0.1226)
+  4. Feature 91 (importance: 0.0944)
+  5. Feature 110 (importance: 0.0938)
+  6. Feature 182 (importance: 0.0733)
+  7. Feature 34 (importance: 0.0578)
+  8. Feature 200 (importance: 0.0452)
+  9. Feature 186 (importance: 0.0447)
+  10. Feature 150 (importance: 0.0395)
+
+
+Source Layer: actor_mlp_5
+==================================================
+
+Target: mu
+--------------------------------------------------
+
+Top Features:
+  1. Feature 19 (importance: 0.4134)
+  2. Feature 45 (importance: 0.2542)
+  3. Feature 4 (importance: 0.2406)
+  4. Feature 47 (importance: 0.2279)
+  5. Feature 27 (importance: 0.1662)
+  6. Feature 14 (importance: 0.1092)
+  7. Feature 42 (importance: 0.1071)
+  8. Feature 102 (importance: 0.0970)
+  9. Feature 38 (importance: 0.0946)
+  10. Feature 25 (importance: 0.0846)
+
+Target: value
+--------------------------------------------------
+
+Top Features:
+  1. Feature 19 (importance: 0.1396)
+  2. Feature 42 (importance: 0.0850)
+  3. Feature 27 (importance: 0.0609)
+  4. Feature 4 (importance: 0.0475)
+  5. Feature 47 (importance: 0.0303)
+  6. Feature 102 (importance: 0.0302)
+  7. Feature 38 (importance: 0.0286)
+  8. Feature 45 (importance: 0.0270)
+  9. Feature 54 (importance: 0.0266)
+  10. Feature 25 (importance: 0.0257)
+
+
+
+Analysis completed successfully.

@@ -1,0 +1,25 @@
+outputs/
+**/__pycache__/
+*.egg-info/
+wandb
+
+# IDE
+*.code-workspace
+.history/
+.vscode
+.cursorrules
+
+# WSL
+*:Zone.Identifier
+
+.env
+logs/
+__pycache__/
+.ipynb_checkpoints/
+
+# Development scripts
+dev_scripts/
+
+plans/
+
+*_log.pkl
